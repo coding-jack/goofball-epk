@@ -1,8 +1,8 @@
 {
-  "name": "shwarma-epk",
-  "version": "1.0.0",
-  "description": "Electronic press kit for shwarma.band",
-  "author": "Pieter Montoulieu",
+  "name": "goofball-epk",
+  "version": "1.0.1",
+  "description": "Electronic press kit for Goofball Bucket",
+  "author": "Jackson Kaufman",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
