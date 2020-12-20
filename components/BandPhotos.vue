@@ -32,19 +32,13 @@
         slide: 0,
         sliding: null,
         images: [
-          'images/slider/group.jpg',
-          'images/slider/jackson-1.jpg',
-          'images/slider/pieter.jpg',
-          'images/slider/steve.jpg',
-          'images/slider/kevin.jpg',
-          'images/slider/dalton.jpg',
-          'images/slider/jackson.jpg',
-          'images/slider/pieter-2.jpg',
-          'images/slider/kevin-solo.jpg',
-          'images/slider/steve-2.jpg',
-          'images/slider/dalton-steve.jpg',
-          'images/slider/pieter-3.jpg',
-          'images/slider/kevin-2.jpg'
+          'images/slider/GoofGroup1.jpg',
+          'images/slider/Group1.jpg',
+          'images/slider/TSGroup2.jpg',
+          'images/slider/TSgroup3.jpg',
+          'images/slider/TSgroup4.jpg',
+          'images/slider/TSgroup5.jpg',
+          'images/slider/TSgroup6.jpg',
         ]
       }
     },

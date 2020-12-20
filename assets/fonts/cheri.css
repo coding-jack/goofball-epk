@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'CHERL';
+  font-style: normal;
+    src: local('CHERL'),
+         url(~assets/fonts/cheri/CHERL.ttf) format('truetype');
+}

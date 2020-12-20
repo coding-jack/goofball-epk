@@ -40,13 +40,13 @@ export default {
   data() {
     return {
       social: {
-        Facebook: 'https://facebook.com/shwarmaband',
-        Instagram: 'https://instagram.com/shwarmaband'
+        Facebook: 'https://www.facebook.com/goofballbucket',
+        Instagram: 'https://www.instagram.com/goofballbucket/'
       },
       music: {
-        Bandcamp: 'https://shwarma.bandcamp.com/',
-        Spotify: 'https://open.spotify.com/artist/5WHhSHtZd60meLMNDxRbYV',
-        'Apple Music': 'https://music.apple.com/us/artist/shwarma/1390163595'
+        Bandcamp: 'https://goofballbucket.bandcamp.com/',
+        Spotify: 'https://open.spotify.com/artist/52AB3dcVboSzPFCERW19PI?si=zpXNcIAYR6u9ksnuKGTg4w',
+        'Apple Music': 'https://music.apple.com/us/artist/goofball-bucket/1543205594'
       }
     }
   }

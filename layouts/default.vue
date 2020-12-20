@@ -11,9 +11,10 @@ html {
 
 body {
   height: 100%;
-  background: #000a38;
-  background-image: url('~assets/images/bg-space.jpg');
+  background-color: #000a38d9;
+  background-image: url('~assets/images/bucket-big.jpg');
   background-size: cover;
+  background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
   font-family: 'Fira Sans', sans-serif;
@@ -44,10 +45,11 @@ a {
 }
 
 .font-wide {
-  font-family: 'Lexend Zetta', sans-serif;
+  font-family: 'CHERL', sans-serif;
+  /* font-family: 'Lexend Zetta', sans-serif; */
 }
 
-.container {
+#__layout {
   background-color: #000a38d9;
 }
 

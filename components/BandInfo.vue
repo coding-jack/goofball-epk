@@ -42,16 +42,15 @@ export default {
   data() {
     return {
       details: {
-        genre: 'Psych Rock',
+        genre: 'Goof Rock',
         hometown: 'Denver',
         members: {
-          'Jackson Kaufman': 'Guitar & Vocals',
-          'Pieter Montoulieu': 'Guitar & Vocals',
-          'Kevin Gy': 'Bass',
-          'Steven Sanchez': 'Drums & Vocals',
-          'Dalton Groves': 'Keys'
+          'Jesse Branum': 'Mandolin, Guitar & Vocals',
+          'Jeff Warnock': 'Guitar & Vocals',
+          'Jackson Kaufman': 'Bass, Guitar & Vocals',
+          'Steven Sanchez': 'Drums & Vocals'
         },
-        influences: ['Ween', 'Frank Zappa', 'Mr. Bungle', 'Pink Floyd']
+        influences: ['Ween', 'Frank Zappa', 'Beastie Boys', 'Pink Floyd', 'Real Jam Bands']
       }
     }
   }

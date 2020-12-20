@@ -4,10 +4,10 @@
       About the Band
     </h3>
     <div class="">
-      <p>What started as a few joke songs just for fun has morphed into a full-fledged, 5-piece, eclectic powerhouse.  Shwarma has a history spanning back 4 years with revolving lineups and live show techniques.  Lead by Jackson and Pieter, who both write, record and produce the music themselves, the band spans many different genres and sounds, which the duo agree they could not live without.</p>
-      <p>Their musical influences pour into the sound to blend a briny mixture of psychedelic, latin, funk, jazz, groove, grunge and sludge among other feels and textures. The band performed initially as a duo playing along to backing tracks, but later brought in drums, keys then bass to embrace the full band sound and let go of a computerized live performance.</p>
-      <p>Shwarma and it's members have played around town at venues like the Marquis Theater, Summit Moon Room, Globe Hall, Larimer Lounge, Lost Lake, hi-dive, Cervantes and many more. After the release of 'Emily's Aparments' in May, the band is set on hitting the local live scene hard and booking gigs all along the front range all summer and into next year.</p>
-      <p>The band has one EP and will have two full lengths after the drop of Emily's Aparments.</p>
+      <p>Goofball Bucket is a Denver-based band blending elements of funk, bluegrass, and rock n’ roll.</p>
+      <p>Featuring “Uncle” Jesse Branum, Jackson “Choir Master” Kaufman, Steve “Dirty” Sanchez, and Jeff “El Jefe” Warnock, the group’s driving rhythm section anchors the lead mandolin and electric guitar.</p>
+      <p>The Bucket’s groovy jams, sweet three-part harmonies, catchy hooks, and psychedelic instrumental sections will keep you goofin’ all night.</p>
+      <p>These Goofballs may come across jokingly, but they are very serious about what they do and where they are going.  The band has big plans to play beyond the brewerys and bars, and to penetrate the club and mid sized venue scene as soon as shows are kicking back in.</p>
     </div>
   </div>
 </template>
