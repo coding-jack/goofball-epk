@@ -45,8 +45,8 @@ a {
 }
 
 .font-wide {
-  font-family: 'CHERL', sans-serif;
-  /* font-family: 'Lexend Zetta', sans-serif; */
+  /* font-family: 'CHERL', sans-serif; */
+  font-family: 'Lexend Zetta', sans-serif;
 }
 
 #__layout {
