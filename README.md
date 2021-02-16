@@ -1,6 +1,6 @@
-# shwarma-epk
+# goofball-epk
 
-> Electronic press kit for shwarma.band
+> Electronic press kit for goofball bucket
 
 ## Build Setup
 
